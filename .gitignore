@@ -1,0 +1,13 @@
+#Maven specific ignores
+target/
+
+#Eclipse specific ignores
+.classpath
+.project
+.settings/
+.springBeans
+bin/
+
+#Idea ignores
+.idea
+*.iml
